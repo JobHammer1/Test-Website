@@ -1,0 +1,33 @@
+body{   
+    background-color: rgb(244, 239, 201);
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+img {
+    max-width: 50%;   
+}
+li {
+    color: rgb(246, 246, 246);
+    margin-right: 2em
+    
+}
+h1 {   
+text-align:center ;
+border: 2px solid black;
+background: white;
+padding: 0,5em;
+
+}
+ul {
+    list-style-type: none;
+    justify-content: center;
+    background-color: rgb(251, 166, 56);
+    display: flex
+
+}
+a {
+    text-decoration: none;
+    color: yellow;
+
+}
+
+
